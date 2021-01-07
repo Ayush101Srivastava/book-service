@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    username: 
+    password: 
+  profiles: dev
+server:
+  port: 9001

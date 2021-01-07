@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    username: 
+    password: 
+  application:
+    name: book-service
+  profiles:
+    active: default
+  cloud:
+    config:
+      uri: http://localhost:6002
